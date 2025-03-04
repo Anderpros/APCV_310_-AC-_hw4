@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  font-size: 14pt;
+}
+
+p, ul {
+  background-color: yellow;
+  font-family: Georgia, Garamond, serif;
+  font-size: 14pt;
+  color: #333;
+}
+
+h1, h2 {
+  font-family: Century Gothic, Futura, Verdana, sans-serif;
+  background-color: #444;
+  color: white;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 28pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20pt;
+  font-weight: normal;
+  text-align: left;
+}
+
+img {
+  padding: 0px 0px 20px 0px;
+}
+
+a {
+  color: white;
+  background-color: #444;
+  padding: 5px 10px;
+  text-decoration: none;
+}
